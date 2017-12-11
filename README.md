@@ -1,2 +1,3 @@
 # HealthMonitoringApp
-Mobile Computing assignment
+
+App to plot data witha moving graph. 
